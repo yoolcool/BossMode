@@ -1,0 +1,3 @@
+H:\Projects_code\BossMode\Source\BossMode\BossMode.Build.cs
+H:\Projects_code\BossMode\Source\BossMode.Target.cs
+H:\Projects_code\BossMode\Source\BossModeEditor.Target.cs

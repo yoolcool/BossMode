@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BossMode.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{40349CDB-4387-414D-B2AD-8CBC205CF3AF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BossMode.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BossModeEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{40078359-5B24-4194-B5F3-1E389B3615CA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BossMode">
+			<UniqueIdentifier>{8A117FB0-3914-4FEE-921E-A713FC527484}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\BossMode\BMAgroCheck.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMAgroCheck.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BMAIController.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMAIController.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BMBossCharacter.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMBossCharacter.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BMCharacter.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMCharacter.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BMHUD.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMHUD.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BMProjectile.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMProjectile.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BMRandomMoveTo.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BMRandomMoveTo.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\BossMode\BossMode.Build.cs">
+			<Filter>Source\BossMode</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BossMode\BossMode.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BossMode.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BossModeGameMode.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BossModeGameMode.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BossMode\BossModeGameModeBase.cpp">
+			<Filter>Source\BossMode</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BossMode\BossModeGameModeBase.h">
+			<Filter>Source\BossMode</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
